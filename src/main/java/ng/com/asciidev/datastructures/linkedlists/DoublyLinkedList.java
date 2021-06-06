@@ -1,4 +1,4 @@
-package ng.com.asciidev.linkedlists;
+package ng.com.asciidev.datastructures.linkedlists;
 
 import java.util.Iterator;
 

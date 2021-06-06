@@ -1,4 +1,4 @@
-package ng.com.asciidev.arrays;
+package ng.com.asciidev.datastructures.arrays;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package ng.com.asciidev.priorityqueues;
+package ng.com.asciidev.datastructures.priorityqueues;
 
 import java.util.*;
 

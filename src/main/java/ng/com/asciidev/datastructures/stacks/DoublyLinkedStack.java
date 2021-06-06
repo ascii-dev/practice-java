@@ -1,4 +1,4 @@
-package ng.com.asciidev.stacks;
+package ng.com.asciidev.datastructures.stacks;
 
 import java.util.EmptyStackException;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package ng.com.asciidev.stacks;
+package ng.com.asciidev.datastructures.stacks;
 
 public class SinglyLinkedStack <T> {
     private int size = 0;

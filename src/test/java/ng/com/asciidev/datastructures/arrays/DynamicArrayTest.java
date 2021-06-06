@@ -1,4 +1,4 @@
-package ng.com.asciidev.arrays;
+package ng.com.asciidev.datastructures.arrays;
 
 import org.junit.Test;
 import org.junit.jupiter.api.*;

@@ -1,4 +1,4 @@
-package ng.com.asciidev.trees;
+package ng.com.asciidev.datastructures.trees;
 
 public enum TreeTraversalOrder {
     PRE_ORDER,

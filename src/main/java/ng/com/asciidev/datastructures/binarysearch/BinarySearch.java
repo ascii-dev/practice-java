@@ -1,4 +1,4 @@
-package ng.com.asciidev.binarysearch;
+package ng.com.asciidev.datastructures.binarysearch;
 
 import java.util.List;
 

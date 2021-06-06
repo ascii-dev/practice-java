@@ -1,4 +1,4 @@
-package ng.com.asciidev.queues;
+package ng.com.asciidev.datastructures.queues;
 
 public class LinkedQueue <T> {
     private Node <T> front;

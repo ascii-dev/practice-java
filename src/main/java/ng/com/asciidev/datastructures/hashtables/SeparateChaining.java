@@ -1,4 +1,4 @@
-package ng.com.asciidev.hashtables;
+package ng.com.asciidev.datastructures.hashtables;
 
 import java.util.ArrayList;
 import java.util.Arrays;

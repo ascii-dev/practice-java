@@ -1,4 +1,4 @@
-package ng.com.asciidev.trees;
+package ng.com.asciidev.datastructures.trees;
 
 public class BinarySearchTree <T extends Comparable<T>> {
     private int nodeCount = 0; // number of nodes in BST
